@@ -14,7 +14,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Ahmad+Asmui">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer, CV and ML Enginner 」
+    「 I am a Gizmo, Robotic Lover, IoT Enthusiast, CV and ML Enginner 」
     <br>
     <br>
   </samp>
