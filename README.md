@@ -97,7 +97,7 @@
   
 </p>
 
-<h3 align="left">Frontend Development :</h3>
+<h3 align="left">Frontend Developments :</h3>
 <p align="left"> 
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="html" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="css" width="50" height="50"/>
