@@ -40,7 +40,7 @@
 <br />
 
 <!-- About Section -->
- # About me
+# 🔬 About me
  
 <p>
  <img align="right" width="350" src="/assets/astronaut.gif" alt="Coding gif" />
@@ -56,7 +56,7 @@
 <br/>
 <br/>
 
-## Stats
+# 📊 Github Stats
 <p align="center">
   <a href="https://github.com/asmuiahmad">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmuiahmad&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
@@ -81,7 +81,7 @@
 <br />
 <be />
 
-## Use To Code
+# 🖥️ Use To Code
 <h3 align="left">Programming Skills :</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <br/>
