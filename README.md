@@ -233,6 +233,18 @@
   <a href="https://adobexdplatform.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/XD.svg" alt="xd" width="50" height="50"/></a>
 
+  <a href="https://www.adobe.com/id_en/products/aftereffects.html" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AfterEffects.svg" alt="ae" width="50" height="50"/></a>
+
+  <a href="https://www.adobe.com/products/audition.html" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Audition.svg" alt="audition" width="50" height="50"/></a>
+
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
+  <img src="https://static.wikia.nocookie.net/logopedia/images/c/c5/DaVinci_Resolve.png/revision/latest?cb=20230125204839" alt="davinci" width="50" height="50"/></a>
+
+  <a href="https://www.image-line.com/" target="_blank" rel="noreferrer">
+  <img src="https://icons.veryicon.com/png/Application/iOS7%20Style%20Metro%20UI/MetroUI%20Apps%20FLStudio.png" alt="fl" width="54" height="54"/></a>
+
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="figma" width="50" height="50"/></a>
 
