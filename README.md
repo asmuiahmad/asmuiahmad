@@ -80,6 +80,12 @@
 <be />
 
 # 🖥️ Use To Code
+<details style="border: 1px solid #ccc; padding: 10px; border-radius: 5px;">
+  <summary style="font-size: 18px; font-weight: bold; cursor: pointer;">✨ Click to expand for more info ✨</summary>
+  <div style="margin-top: 10px;">
+    <p>
+    Here is some more detailed information about my skills. This section is hidden by default but will be shown when you click "Click to expand."
+    </p>
 <h3 align="left">Programming Skills :</h3>
 <p align="left"> 
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="python" width="50" height="50"/>
@@ -176,7 +182,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" alt="unity" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg" alt="nvim" width="50" height="50"/>
 </p>
-
-<br />
+</div>
+</details>
 <br/>
 <hr/>
