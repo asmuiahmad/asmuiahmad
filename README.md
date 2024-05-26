@@ -12,7 +12,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Ahmad+Asmui">「 Google Me 」</a>
+    <a target="_blank" href="https://www.google.com/search?q=Ahmad+Asmui">「 Google Me 」</a>
     <br>
     「 I am a Gizmo, Robotic Lover, IoT Enthusiast, CV and ML Enginner 」
     <br>
@@ -21,19 +21,19 @@
 </p>
 
 <p align="center">
- <a href="https://asmuiahmad.github.io" target="blank">
+ <a target="_blank" href="https://asmuiahmad.github.io" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="asmuiahmad" />
  </a>
- <a href="https://linkedin.com/in/asmuiahmad" target="_blank">
+ <a target="_blank" href="https://linkedin.com/in/asmuiahmad" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="asmuiahmad"/>
  </a>
- <a href="https://twitter.com/smui_ahmad" target="_blank">
+ <a target="_blank" href="https://twitter.com/smui_ahmad" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
- <a href="https://instagram.com/asmui_ahmad" target="_blank">
+ <a target="_blank" href="https://instagram.com/asmui_ahmad" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="asmuiahmad" />
  </a> 
- <a href="https://facebook.com/asmui.ahmad28" target="_blank">
+ <a target="_blank" href="https://facebook.com/asmui.ahmad28" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="asmuiahmad"  />
   </a> 
 </p>
