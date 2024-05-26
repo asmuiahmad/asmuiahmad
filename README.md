@@ -50,7 +50,7 @@
  📧 &emsp; Reach me anytime: asmui.ahmad@muslim.com<br/>
  💬 &emsp; Ask me about anything [here](https://github.com/asmuiahmad/asmuiahmad/issues)<br />
  📚 &emsp; I'm also like to learn many languages<a target="_blank" href="https://www.duolingo.com/profile/asmui_ahmad"> Duolingo</a><br/> </p>
-<img src="https://duolingo-stats-card.vercel.app/api?username=asmui_ahmad&theme=dark" alt="Duolingo Stats"/>
+<img src="https://duolingo-stats-card.vercel.app/api?username=asmui_ahmad&theme=sky" alt="Duolingo Stats"/>
 <br/>
 <be/>
 
