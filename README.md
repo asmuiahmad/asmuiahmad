@@ -51,7 +51,10 @@
  💬 &emsp; Ask me about anything [here](https://github.com/asmuiahmad/asmuiahmad/issues)
 
 </p>
-
+<br />
+<p>I'm also like to learn many languages</p>
+<img src="https://duolingo-stats-card.vercel.app/api?username=asmui_ahmad&theme=dark" alt="Duolingo Stats"/>
+Find me on Duolingo.<b><a target="_blank" href="https://www.duolingo.com/profile/asmui_ahmad"> [Here]</a></b>
 <br/>
 <br/>
 <br/>
