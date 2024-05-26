@@ -14,7 +14,7 @@
   <samp>
     <a target="_blank" href="https://www.google.com/search?q=Ahmad+Asmui">「 Google Me 」</a>
     <br>
-    「 I am a Gizmo, Robotic Lover, IoT Enthusiast, CV and ML Enginner 」
+    「 I am a Gizmo, Robotic Lover, Astrophysics, IoT Enthusiast, CV and ML Engineer 」
     <br>
     <br>
   </samp>
