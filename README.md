@@ -107,6 +107,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" alt="sass" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/QT-Dark.svg" alt="qt" width="50" height="50"/>
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/GTK-Dark.svg" alt="gtk" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CMake-Dark.svg" alt="cmake" width="50" height="50"/>
 </p>
 
 <h3 align="left">Backend Developments :</h3>
