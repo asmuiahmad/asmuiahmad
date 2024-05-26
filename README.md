@@ -52,7 +52,7 @@
 
 </p>
 <br />
-<p>I'm also like to learn many languages</p>
+<p> 📚 I'm also like to learn many languages</p>
 <img src="https://duolingo-stats-card.vercel.app/api?username=asmui_ahmad&theme=dark" alt="Duolingo Stats"/>
 Find me on Duolingo.<b><a target="_blank" href="https://www.duolingo.com/profile/asmui_ahmad"> [Here]</a></b>
 <br/>
