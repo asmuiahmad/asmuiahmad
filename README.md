@@ -9,10 +9,9 @@
         </samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
-    <a target="_blank" href="https://www.google.com/search?q=Ahmad+Asmui">「 Google Me 」</a>
+    <a target="_blank" href="https://www.google.com/search?q=Ahmad+Asmu'i">「 Google Me 」</a>
     <br>
   </br>
     <h5 align="center" style="font-size: 8px;">
