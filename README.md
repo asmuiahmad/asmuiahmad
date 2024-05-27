@@ -25,29 +25,38 @@
     <a target="_blank" href="https://www.ibm.com/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,they%20see%20defects%20or%20issues.">CV</a> and 
     <a target="_blank" href="https://www.ibm.com/topics/machine-learning">ML</a> Engineer 」
     </h5>
-    <br>
-    <br>
+
   </samp>
 </p>
 
 <p align="center">
  <a target="_blank" href="https://asmuiahmad.github.io" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="asmuiahmad" />
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/website.svg" height="28" alt="website"/>
  </a>
  <a target="_blank" href="https://linkedin.com/in/asmuiahmad" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="asmuiahmad"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/linkedin.svg" height="28" alt="linkedin"/>
  </a>
- <a target="_blank" href="https://twitter.com/smui_ahmad" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ <a target="_blank" href="https://x.com/smui_ahmad" target="_blank">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/x.com.svg" height="28" alt="x.com"/>
  </a>
  <a target="_blank" href="https://instagram.com/asmui_ahmad" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="asmuiahmad" />
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/instagram.svg" height="28" alt="instagram"/>
  </a> 
+</br>
  <a target="_blank" href="https://facebook.com/asmui.ahmad28" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="asmuiahmad"  />
-  </a> 
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/facebook.svg" height="28" alt="facebook"/>
+ </a>
+ <a target="_blank" href="discordapp.com/users/asmui" target="_blank">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/discord.svg" height="28" alt="discord"/>
+ </a>
+ <a target="_blank" href="#0" target="_blank">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/battlenet.svg" height="28" alt="battlenet"/>
+ </a>
+ <a target="_blank" href="https://open.spotify.com/user/301h3eupxf1jilha20n3ca2xm?si=41824fcf00c349f7" target="_blank">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/spotify.svg" height="28" alt="spotify"/>
+ </a>
+  
 </p>
-<br />
 
 <!-- About Section -->
 # 🔬 About me
