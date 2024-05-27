@@ -153,7 +153,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" alt="android-studio" width="50" height="50"/></a>
 
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Apple_iOS_logo.svg/1024px-Apple_iOS_logo.svg.png" alt="ios" width="50" height="50"/></a>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/xcode.svg" alt="ios" width="50" height="50"/></a>
 
   <a href="https://dart.dev/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Dart-Dark.svg" alt="dart" width="50" height="50"/></a>
@@ -171,7 +171,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenCV-Dark.svg" alt="opencv" width="50" height="50"/></a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/></a>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/pandas.svg" alt="pandas" width="50" height="50"/></a>
 
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyTorch-Dark.svg" alt="pytorch" width="50" height="50"/></a>
@@ -192,7 +192,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="50" height="50"/></a>
 
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/SQLite.svg" alt="sqllite" width="50" height="50"/></a>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/sqlite.svg" alt="sqllite" width="50" height="50"/></a>
 </p>
 
 <h3 align="left">DevOps :</h3>
@@ -240,10 +240,10 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Audition.svg" alt="audition" width="50" height="50"/></a>
 
   <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
-  <img src="https://static.wikia.nocookie.net/logopedia/images/c/c5/DaVinci_Resolve.png/revision/latest?cb=20230125204839" alt="davinci" width="50" height="50"/></a>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/davinci.svg" alt="davinci" width="50" height="50"/></a>
 
   <a href="https://www.image-line.com/" target="_blank" rel="noreferrer">
-  <img src="https://icons.veryicon.com/png/Application/iOS7%20Style%20Metro%20UI/MetroUI%20Apps%20FLStudio.png" alt="fl" width="54" height="54"/></a>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/flstudio.svg" alt="fl" width="50" height="50"/></a>
 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="figma" width="50" height="50"/></a>
@@ -270,7 +270,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Debian-Dark.svg" alt="debian" width="50" height="50"/></a>
 
   <a href="https://www.freebsd.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/BSD-Dark.svg" alt="bsd" width="50" height="50"/></a>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/freebsd.svg" alt="bsd" width="50" height="50"/></a>
 </p>
 
 <h3 align="left">Others :</h3>
