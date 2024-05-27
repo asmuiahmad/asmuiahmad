@@ -23,7 +23,7 @@
     <a target="_blank" href="https://en.wikipedia.org/wiki/Philosophy#:~:text=Philosophy%20(%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CE%BF%CF%86%CE%AF%CE%B1%2C%20'love%20of,value%2C%20mind%2C%20and%20language.">Philosophy</a>, 
     <a target="_blank" href="https://www.oracle.com/id/internet-of-things/what-is-iot/#:~:text=What%20is%20IoT%3F,and%20systems%20over%20the%20internet.">IoT</a> Enthusiast, 
     <a target="_blank" href="https://www.ibm.com/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,they%20see%20defects%20or%20issues.">CV</a> and 
-    <a target="_blank" href="https://www.ibm.com/topics/machine-learning">ML Engineer</a> 」
+    <a target="_blank" href="https://www.ibm.com/topics/machine-learning">ML</a> Engineer 」
     </h5>
     <br>
     <br>
