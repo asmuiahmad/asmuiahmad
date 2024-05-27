@@ -104,8 +104,34 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="php" width="50" height="50"/></a>
 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="bash" width="50" height="50"/></a>
-  
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bash-Dark.svg" alt="bash" width="50" height="50"/></a>  
+</p>
+
+<h3 align="left">Artificial Intelligence / Machine Learning :</h3>
+<p align="left">
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenCV-Dark.svg" alt="opencv" width="50" height="50"/></a>
+
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/pandas.svg" alt="pandas" width="50" height="50"/></a>
+
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyTorch-Dark.svg" alt="pytorch" width="50" height="50"/></a>
+
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/keras.svg" alt="keras" width="50" height="50"/></a>
+
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/matploitlb.svg" alt="matplotlib" width="50" height="50"/></a>
+
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/numpy.svg" alt="numpy" width="50" height="50"/></a>
+
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/scikit.svg" alt="scikit" width="50" height="50"/></a>
+
+  <a href="https://pypi.org/project/Theano/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/theano.svg" alt="theano" width="50" height="50"/></a>
 </p>
 
 <h3 align="left">Frontend Developments :</h3>
@@ -163,21 +189,6 @@
 
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="react" width="50" height="50"/></a>
-</p>
-
-<h3 align="left">Artificial Intelligence/ Machine Learning :</h3>
-<p align="left">
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenCV-Dark.svg" alt="opencv" width="50" height="50"/></a>
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/pandas.svg" alt="pandas" width="50" height="50"/></a>
-
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyTorch-Dark.svg" alt="pytorch" width="50" height="50"/></a>
-
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TensorFlow-Dark.svg" alt="tensorflow" width="50" height="50"/></a>
 </p>
 
 <h3 align="left">Database :</h3>
@@ -289,6 +300,9 @@
 
   <a href="https://neovim.io/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NeoVim-Dark.svg" alt="nvim" width="50" height="50"/></a>
+
+  <a href="https://www.opengl.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/opengl.svg" alt="opengl" width="50" height="50"/></a>
 </p>
 </div>
 </details>
