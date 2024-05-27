@@ -8,7 +8,7 @@
    version="1.1"
    id="svg20198"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="x.com.svg"
+   sodipodi:docname="website.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,7 +27,7 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:zoom="2.8284271"
-     inkscape:cx="155.74027"
+     inkscape:cx="155.91705"
      inkscape:cy="26.693281"
      inkscape:window-width="1296"
      inkscape:window-height="704"
@@ -65,8 +65,7 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     sodipodi:insensitive="true">
+     id="layer1">
     <rect
        style="fill:#000080;stroke-width:0.267624"
        id="rect20224"
@@ -76,15 +75,15 @@
        y="0.00013490723" />
     <text
        xml:space="preserve"
-       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';fill:#ffffff;stroke-width:0.264583"
-       x="36.731323"
-       y="13.879162"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+       x="35.783703"
+       y="13.738948"
        id="text22170"><tspan
          sodipodi:role="line"
          id="tspan22168"
-         style="fill:#ffffff;stroke-width:0.264583"
-         x="36.731323"
-         y="13.879162">WEBSITE</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="35.783703"
+         y="13.738948">WEBSITE</tspan></text>
     <path
        d="m 11.721463,6.5013306 c 2.498322,0 4.523434,2.1230985 4.523434,4.7418624 0,2.618698 -2.025298,4.741665 -4.523434,4.741665 -2.498137,0 -4.5235613,-2.122967 -4.5235613,-4.741665 0,-2.6187639 2.025299,-4.7418624 4.5235613,-4.7418624 z m 7.223812,0.2778053 c 1.249161,0 2.26181,1.9983823 2.26181,4.4640571 h 1.27e-4 c 0,2.464956 -1.01265,4.464055 -2.26175,4.464055 -1.249162,0 -2.26181,-1.999099 -2.26181,-4.464055 0,-2.4650225 1.012459,-4.4640571 2.261623,-4.4640571 z m 3.496186,0.4649428 c 0.439193,0 0.795435,1.7904368 0.795435,3.9991143 0,2.208024 -0.356053,3.999047 -0.795435,3.999047 -0.439381,0 -0.795308,-1.790566 -0.795308,-3.999047 0,-2.2085469 0.356053,-3.9991143 0.795308,-3.9991143 z"
        fill="#ffffff"
