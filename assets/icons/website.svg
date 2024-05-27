@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="311"
+   height="84"
+   viewBox="0 0 82.285414 22.225"
+   version="1.1"
+   id="svg20198"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="x.com.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20200"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="155.74027"
+     inkscape:cy="26.693281"
+     inkscape:window-width="1296"
+     inkscape:window-height="704"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="7.1792296,16.17758"
+       orientation="1,0"
+       id="guide26168" />
+    <sodipodi:guide
+       position="19.270132,13.712466"
+       orientation="1,0"
+       id="guide26170" />
+    <sodipodi:guide
+       position="12.113991,15.723669"
+       orientation="0,-1"
+       id="guide26172" />
+    <sodipodi:guide
+       position="11.693041,6.2289188"
+       orientation="0,-1"
+       id="guide26174" />
+    <sodipodi:guide
+       position="35.64039,10.812591"
+       orientation="0,-1"
+       id="guide26176" />
+    <sodipodi:guide
+       position="51.064581,10.812591"
+       orientation="1,0"
+       id="guide26178" />
+  </sodipodi:namedview>
+  <defs
+     id="defs20195" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000080;stroke-width:0.267624"
+       id="rect20224"
+       width="82.286247"
+       height="22.231474"
+       x="0.00032512617"
+       y="0.00013490723" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Normal';fill:#ffffff;stroke-width:0.264583"
+       x="36.731323"
+       y="13.879162"
+       id="text22170"><tspan
+         sodipodi:role="line"
+         id="tspan22168"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="36.731323"
+         y="13.879162">WEBSITE</tspan></text>
+    <path
+       d="m 11.721463,6.5013306 c 2.498322,0 4.523434,2.1230985 4.523434,4.7418624 0,2.618698 -2.025298,4.741665 -4.523434,4.741665 -2.498137,0 -4.5235613,-2.122967 -4.5235613,-4.741665 0,-2.6187639 2.025299,-4.7418624 4.5235613,-4.7418624 z m 7.223812,0.2778053 c 1.249161,0 2.26181,1.9983823 2.26181,4.4640571 h 1.27e-4 c 0,2.464956 -1.01265,4.464055 -2.26175,4.464055 -1.249162,0 -2.26181,-1.999099 -2.26181,-4.464055 0,-2.4650225 1.012459,-4.4640571 2.261623,-4.4640571 z m 3.496186,0.4649428 c 0.439193,0 0.795435,1.7904368 0.795435,3.9991143 0,2.208024 -0.356053,3.999047 -0.795435,3.999047 -0.439381,0 -0.795308,-1.790566 -0.795308,-3.999047 0,-2.2085469 0.356053,-3.9991143 0.795308,-3.9991143 z"
+       fill="#ffffff"
+       id="path28826"
+       style="stroke-width:0.0639269" />
+  </g>
+</svg>
