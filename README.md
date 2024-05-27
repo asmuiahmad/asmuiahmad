@@ -14,7 +14,7 @@
   <samp>
     <a target="_blank" href="https://www.google.com/search?q=Ahmad+Asmui">「 Google Me 」</a>
     <br>
-    「 I am a Gizmo, Robotic Lover, Astrophysics, IoT Enthusiast, CV and ML Engineer 」
+    「 I am a Gizmo, Robotic Lover, Astronomer, IoT Enthusiast, CV and ML Engineer 」
     <br>
     <br>
   </samp>
@@ -50,7 +50,7 @@
  📧 &emsp; Reach me anytime: asmui.ahmad@muslim.com<br/>
  💬 &emsp; Ask me about anything [here](https://github.com/asmuiahmad/asmuiahmad/issues)<br />
  📚 &emsp; I'm also like to learn many languages<a target="_blank" href="https://www.duolingo.com/profile/asmui_ahmad"> Duolingo</a><br/> </p>
-<img src="https://duolingo-stats-card.vercel.app/api?username=asmui_ahmad&theme=sky" alt="Duolingo Stats"/>
+<img src="https://duolingo-stats-card.vercel.app/api?username=asmui_ahmat&theme=sky" alt="Duolingo Stats"/>
 <br/>
 <be/>
 
@@ -74,7 +74,7 @@
 </a>
 
 
-![Ahmad Asmui's Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmuiahmad&custom_title=Ahmad%20Asmui's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Asmui Ahmad's Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmuiahmad&custom_title=Ahmad%20Asmui's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br />
 <be />
