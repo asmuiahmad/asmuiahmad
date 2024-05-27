@@ -14,7 +14,7 @@
   <samp>
     <a target="_blank" href="https://www.google.com/search?q=Ahmad+Asmui">「 Google Me 」</a>
     <br>
-    「 I am a Gizmo, Robotic Lover, Astronomer, IoT Enthusiast, CV and ML Engineer 」
+    「 I am a <a target="_blank" href="https://simple.wikipedia.org/wiki/Gizmo">Gizmo</a>, <a target="_blank" href="https://en.wikipedia.org/wiki/Robotics">Robotic</a> Lover, <a target="_blank" href="https://en.wikipedia.org/wiki/Astronomy">Astronomer</a> Enthusiast, Love reading about <a target="_blank" href="https://en.wikipedia.org/wiki/Philosophy#:~:text=Philosophy%20(%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CE%BF%CF%86%CE%AF%CE%B1%2C%20'love%20of,value%2C%20mind%2C%20and%20language.">Philosophy</a>, <a target="_blank" href="https://www.oracle.com/id/internet-of-things/what-is-iot/#:~:text=What%20is%20IoT%3F,and%20systems%20over%20the%20internet.">IoT</a> Enthusiast, <a target="_blank" href="https://www.ibm.com/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,they%20see%20defects%20or%20issues.">CV</a> and <a target="_blank" href="https://www.ibm.com/topics/machine-learning">ML Engineer</a> 」
     <br>
     <br>
   </samp>
@@ -233,7 +233,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Symfony-Dark.svg" alt="symfony" width="50" height="50"/></a>
 </p>
 
-<h3 align="left">Software Masterings :</h3>
+<h3 align="left">Mastering Software :</h3>
 <p align="left">
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Photoshop.svg" alt="photoshop" width="50" height="50"/></a>
@@ -284,7 +284,7 @@
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/freebsd.svg" alt="bsd" width="50" height="50"/></a>
 </p>
 
-<h3 align="left">Others :</h3>
+<h3 align="left">Other :</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" alt="git" width="50" height="50"/></a>
