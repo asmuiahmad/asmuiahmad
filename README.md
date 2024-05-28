@@ -41,25 +41,25 @@
  <a target="_blank" href="https://instagram.com/asmui_ahmad" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/instagram.svg" height="28" alt="instagram"/>
  </a> 
-</br>
  <a target="_blank" href="https://facebook.com/asmui.ahmad28" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/facebook.svg" height="28" alt="facebook"/>
  </a>
  <a target="_blank" href="discordapp.com/users/asmui" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/discord.svg" height="28" alt="discord"/>
  </a>
+</br>
+  <a target="_blank" href="https://steamcommunity.com/id/darthVoyage/" target="_blank">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/steam.svg" height="28" alt="steam"/>
+ </a>
  <a target="_blank" href="#0" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/battlenet.svg" height="28" alt="battlenet"/>
  </a>
- <a target="_blank" href="https://open.spotify.com/user/301h3eupxf1jilha20n3ca2xm?si=41824fcf00c349f7" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/spotify.svg" height="28" alt="spotify"/>
- </a>
- <a target="_blank" href="https://steamcommunity.com/id/darthVoyage/" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/steam.svg" height="28" alt="steam"/>
- </a> 
  <a target="_blank" href="#0" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/riotgames.svg" height="28" alt="riotgames"/>
- </a> 
+ </a>
+ <a target="_blank" href="https://open.spotify.com/user/301h3eupxf1jilha20n3ca2xm?si=41824fcf00c349f7" target="_blank">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/spotify.svg" height="28" alt="spotify"/>
+ </a>  
  <a target="_blank" href="https://stackoverflow.com/users/14989413/darth-voyage" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/stackoverflow.svg" height="28" alt="stackoverflow"/>
  </a> 
