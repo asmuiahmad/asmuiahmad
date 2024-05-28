@@ -54,6 +54,18 @@
  <a target="_blank" href="https://open.spotify.com/user/301h3eupxf1jilha20n3ca2xm?si=41824fcf00c349f7" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/spotify.svg" height="28" alt="spotify"/>
  </a>
+ <a target="_blank" href="https://steamcommunity.com/id/darthVoyage/" target="_blank">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/steam.svg" height="28" alt="steam"/>
+ </a> 
+ <a target="_blank" href="#0" target="_blank">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/riotgames.svg" height="28" alt="riotgames"/>
+ </a> 
+ <a target="_blank" href="https://stackoverflow.com/users/14989413/darth-voyage" target="_blank">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/stackoverflow.svg" height="28" alt="stackoverflow"/>
+ </a> 
+ <a target="_blank" href="#0" target="_blank">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/rss.svg" height="28" alt="rss"/>
+ </a> 
   
 </p>
 
@@ -280,6 +292,9 @@
 
   <a href="https://www.sketchup.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sketchup-Dark.svg" alt="sketchup" width="50" height="50"/></a>
+
+  <a href="https://inkscape.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/inkscape.svg" alt="inkscape" width="50" height="50"/></a>
 
   <a href="https://web.autocad.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AutoCAD-Dark.svg" alt="autocad" width="50" height="50"/></a>
