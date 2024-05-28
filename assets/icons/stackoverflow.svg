@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="311"
+   height="84"
+   viewBox="0 0 82.285414 22.225"
+   version="1.1"
+   id="svg20198"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="stackoverflow.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20200"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="223.7993"
+     inkscape:cy="8.8388348"
+     inkscape:window-width="1296"
+     inkscape:window-height="704"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="7.1792296,16.17758"
+       orientation="1,0"
+       id="guide26168" />
+    <sodipodi:guide
+       position="19.270132,13.712466"
+       orientation="1,0"
+       id="guide26170" />
+    <sodipodi:guide
+       position="12.113991,15.723669"
+       orientation="0,-1"
+       id="guide26172" />
+    <sodipodi:guide
+       position="11.693041,6.2289188"
+       orientation="0,-1"
+       id="guide26174" />
+    <sodipodi:guide
+       position="35.64039,10.812591"
+       orientation="0,-1"
+       id="guide26176" />
+    <sodipodi:guide
+       position="51.064581,10.812591"
+       orientation="1,0"
+       id="guide26178" />
+  </sodipodi:namedview>
+  <defs
+     id="defs20195" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ec7c23;fill-opacity:1;stroke-width:0.267624"
+       id="rect20224"
+       width="82.286247"
+       height="22.231474"
+       x="0.00032512617"
+       y="0.00013490723" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+       x="24.932598"
+       y="13.516309"
+       id="text22170"><tspan
+         sodipodi:role="line"
+         id="tspan22168"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.99722px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="24.932598"
+         y="13.516309">STACKOVERFLOW</tspan></text>
+    <path
+       d="m 8.7693478,12.035474 0.847481,0.007 -0.02951,3.181018 h 5.6406532 v -3.16943 h 0.893297 v 3.942019 H 8.764693 Z m 1.3819762,1.880493 h 4.418604 v 0.792467 h -4.418604 z m 0.103354,-1.425866 4.421888,0.359808 -0.09259,0.808432 -4.421888,-0.359767 z m 0.403763,-1.611924 4.275043,1.01684 -0.261656,0.781607 -4.275044,-1.01684 z m 1.036759,-1.8231453 3.802427,1.9356293 -0.498171,0.69518 -3.802431,-1.935629 z m 2.162726,-1.7263688 2.587607,3.0436251 -0.783481,0.47319 -2.587605,-3.0436671 z m 3.005312,-0.8273779 0.732055,3.692524 -0.950378,0.133854 -0.732007,-3.6925263 z"
+       fill="#ffffff"
+       id="path9621"
+       style="stroke-width:0.648545" />
+  </g>
+</svg>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="311"
+   height="84"
+   viewBox="0 0 82.285414 22.225"
+   version="1.1"
+   id="svg20198"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="riotgames.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview20200"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="px"
+     showgrid="false"
+     units="px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="85.02959"
+     inkscape:cy="11.136932"
+     inkscape:window-width="1296"
+     inkscape:window-height="704"
+     inkscape:window-x="70"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="7.1792296,16.17758"
+       orientation="1,0"
+       id="guide26168" />
+    <sodipodi:guide
+       position="19.270132,13.712466"
+       orientation="1,0"
+       id="guide26170" />
+    <sodipodi:guide
+       position="12.113991,15.723669"
+       orientation="0,-1"
+       id="guide26172" />
+    <sodipodi:guide
+       position="11.693041,6.2289188"
+       orientation="0,-1"
+       id="guide26174" />
+    <sodipodi:guide
+       position="35.64039,10.812591"
+       orientation="0,-1"
+       id="guide26176" />
+    <sodipodi:guide
+       position="51.064581,10.812591"
+       orientation="1,0"
+       id="guide26178" />
+  </sodipodi:namedview>
+  <defs
+     id="defs20195" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ec0830;fill-opacity:1;stroke-width:0.267624"
+       id="rect20224"
+       width="82.286247"
+       height="22.231474"
+       x="0.00032512617"
+       y="0.00013490723" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+       x="29.360147"
+       y="13.879832"
+       id="text22170"><tspan
+         sodipodi:role="line"
+         id="tspan22168"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.264583"
+         x="29.360147"
+         y="13.879832">RIOT GAMES</tspan></text>
+    <path
+       d="m 13.330249,15.113939 -0.442546,-1.111687 4.271174,0.213635 -0.183108,1.780281 z M 14.355817,6.5013306 8.3660252,9.2583959 9.292935,13.413177 h 1.222075 l -0.211122,-2.971883 0.187168,-0.05697 0.734868,3.028852 h 1.269173 l -0.04709,-3.6199064 0.187574,-0.05697 0.6423,3.6768764 h 1.343877 l 0.316684,-4.3727685 0.187575,-0.05697 0.332924,4.4297365 h 1.776678 l 0.625247,-6.0806519 z"
+       id="path6339"
+       style="fill:#ffffff;stroke-width:0.400777" />
+  </g>
+</svg>
