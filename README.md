@@ -149,6 +149,9 @@
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PyTorch-Dark.svg" alt="pytorch" width="50" height="50"/></a>
 
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/jupyter.svg" alt="opencv" width="50" height="50"/></a>
+
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/keras.svg" alt="keras" width="50" height="50"/></a>
 
@@ -163,6 +166,12 @@
 
   <a href="https://pypi.org/project/Theano/" target="_blank" rel="noreferrer">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/theano.svg" alt="theano" width="50" height="50"/></a>
+
+  <a href="https://radimrehurek.com/gensim/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/gensim.svg" alt="opencv" width="50" height="50"/></a>
+
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/seaborn.svg" alt="opencv" width="50" height="50"/></a>
 </p>
 
 <h3 align="left">Frontend Developments :</h3>
