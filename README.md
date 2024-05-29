@@ -19,7 +19,7 @@
     <a target="_blank" href="https://simple.wikipedia.org/wiki/Gizmo">Gizmo</a>, 
     <a target="_blank" href="https://en.wikipedia.org/wiki/Robotics">Robotic</a> Lover, 
     <a target="_blank" href="https://en.wikipedia.org/wiki/Astronomy">Astronomer</a> Enthusiast, Love reading about 
-    <a target="_blank" href="https://en.wikipedia.org/wiki/Philosophy#:~:text=Philosophy%20(%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CE%BF%CF%86%CE%AF%CE%B1%2C%20'love%20of,value%2C%20mind%2C%20and%20language.">Philosophy</a>, 
+    <a target="_blank" href="https://en.wikipedia.org/wiki/Philosophy#:~:text=Philosophy%20(%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CE%BF%CF%86%CE%AF%CE%B1%2C%20'love%20of,value%2C%20mind%2C%20and%20language.">Philosophy</a> and <a target="_blank" href="https://en.wikipedia.org/wiki/History">History</a>, 
     <a target="_blank" href="https://www.oracle.com/id/internet-of-things/what-is-iot/#:~:text=What%20is%20IoT%3F,and%20systems%20over%20the%20internet.">IoT</a> Enthusiast, 
     <a target="_blank" href="https://www.ibm.com/topics/computer-vision#:~:text=Computer%20vision%20is%20a%20field,they%20see%20defects%20or%20issues.">CV</a> and 
     <a target="_blank" href="https://www.ibm.com/topics/machine-learning">ML</a> Engineer 」
@@ -75,11 +75,11 @@
 <p>
  <img align="right" width="350" src="/assets/astronaut.gif" alt="Coding gif" />
   
- ✌️ &emsp; I like to called Gizmo rather than Nerd <br/>
+ ✌️ &emsp; I like to be called Gizmo rather than Nerd <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
  📧 &emsp; Reach me anytime: asmui.ahmad@muslim.com<br/>
  💬 &emsp; Ask me about anything [here](https://github.com/asmuiahmad/asmuiahmad/issues)<br />
- 📚 &emsp; I'm also like to learn many languages<a target="_blank" href="https://www.duolingo.com/profile/asmui_ahmad"> Duolingo</a><br/> </p>
+ 📚 &emsp; I also like to learn many languages <a target="_blank" href="https://www.duolingo.com/profile/asmui_ahmad">Duolingo</a><br/> </p>
 <img src="https://duolingo-stats-card.vercel.app/api?username=asmui_ahmad&theme=sky" alt="Duolingo Stats"/>
 <br/>
 <be/>
