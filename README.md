@@ -44,17 +44,17 @@
  <a target="_blank" href="https://facebook.com/asmui.ahmad28" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/facebook.svg" height="28" alt="facebook"/>
  </a>
- <a target="_blank" href="discordapp.com/users/asmui" target="_blank">
+ <a target="_blank" href="https://asmuiahmad.github.io/sorrymafellas/discord.html" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/discord.svg" height="28" alt="discord"/>
  </a>
 </br>
   <a target="_blank" href="https://steamcommunity.com/id/darthVoyage/" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/steam.svg" height="28" alt="steam"/>
  </a>
- <a target="_blank" href="#0" target="_blank">
+ <a target="_blank" href="https://asmuiahmad.github.io/sorrymafellas/battlenet.html" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/battlenet.svg" height="28" alt="battlenet"/>
  </a>
- <a target="_blank" href="#0" target="_blank">
+ <a target="_blank" href="https://asmuiahmad.github.io/sorrymafellas/riotgames.html" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/riotgames.svg" height="28" alt="riotgames"/>
  </a>
  <a target="_blank" href="https://open.spotify.com/user/301h3eupxf1jilha20n3ca2xm?si=41824fcf00c349f7" target="_blank">
