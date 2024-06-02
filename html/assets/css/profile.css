@@ -1,0 +1,199 @@
+@font-face {
+  font-family: 'Raleway-Light';
+  src: url('../fonts/Raleway-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Raleway-Medium';
+  src: url('../fonts/Raleway-Medium.ttf') format('truetype');
+}
+
+.account-badges {
+  background-color: transparent;
+  height: 290px;
+  overflow-x: hidden;
+  position: relative;
+  width: 550px;
+  top: 5px;
+}
+
+.account-badges .outter {
+  background-color: #535353;
+  border-radius: 33px;
+  height: 245px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 550px;
+}
+
+.account-badges .inner {
+  background-color: var(--black);
+  border-radius: 77px;
+  height: 234px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 540px;
+}
+
+.account-badges .subtract {
+  background-color: transparent;
+  height: 118px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 541px;
+}
+
+.account-badges .group-2 {
+  background-color: transparent;
+  height: 110px;
+  left: 54px;
+  position: absolute;
+  top: 82px;
+  width: 110px;
+}
+
+.account-badges .ellipse-1-Zm2KDw {
+  background-color: #535353;
+  border-radius: 55px;
+  height: 110px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 110px;
+}
+
+.account-badges .ellipse-2-Zm2KDw {
+  background-color: transparent;
+  height: 101px;
+  left: 5px;
+  object-fit: cover;
+  position: absolute;
+  top: 5px;
+  width: 101px;
+}
+
+.account-badges .game-account {
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Raleway-Medium', Arial, Helvetica, sans-serif;
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 249px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 137px;
+  width: auto;
+  margin-top: 20px;
+}
+
+.account-badges .game-id {
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Raleway-Light', Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 250px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  position: absolute;
+  text-align: left;
+  top: 166px;
+  white-space: nowrap;
+  width: auto;
+  margin-top: 12px;
+}
+
+.account-badges .profile-copy-discord {
+  background-color: transparent;
+  height: 14px;
+  left: 351px;
+  position: absolute;
+  top: 167px;
+  width: 16px;
+  margin-top: 11px;
+}
+
+.account-badges .profile-copy-battlenet {
+  background-color: transparent;
+  height: 14px;
+  left: 343px;
+  position: absolute;
+  top: 167px;
+  width: 16px;
+  margin-top: 11px;
+}
+
+.account-badges .profile-copy-riot {
+  background-color: transparent;
+  height: 14px;
+  left: 353px;
+  position: absolute;
+  top: 167px;
+  width: 16px;
+  margin-top: 11px;
+}
+
+.account-badges .riot-ico {
+  background-color: transparent;
+  height: 53px;
+  left: 180px;
+  position: absolute;
+  top: 147px;
+}
+
+.account-badges .battlenet-ico {
+  background-color: transparent;
+  height: 60px;
+  left: 180px;
+  position: absolute;
+  top: 147px;
+}
+
+.account-badges .discord-ico {
+  background-color: transparent;
+  height: 50px;
+  left: 180px;
+  position: absolute;
+  top: 147px;
+}
+
+.container-center-vertical {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  pointer-events: none;
+}
+
+.container-center-vertical>* {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal>* {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.bottom-text {
+  font-family: 'Raleway-Regular', Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  text-align: center;
+}
