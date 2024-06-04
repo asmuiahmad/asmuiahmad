@@ -115,7 +115,7 @@
   <div style="margin-top: 10px;">
     <p>
     Here is some more detailed information about my skills.
-    This section is hidden by default but will be shown when you click "Click to expand."
+  </br>This section is hidden by default but will be shown when you click "Click to expand."
     </p>
 <h3 align="left">Programming Skills :</h3>
 <p align="left"> 
