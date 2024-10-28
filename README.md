@@ -30,41 +30,41 @@
 
 <p align="center">
  <a target="_blank" href="https://asmuiahmad.github.io" target="blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/website.svg" height="28" alt="website"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/website.png" height="28" alt="website"/>
  </a>
  <a target="_blank" href="https://linkedin.com/in/asmuiahmad" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/linkedin.svg" height="28" alt="linkedin"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/linkedin.png" height="28" alt="linkedin"/>
  </a>
  <a target="_blank" href="https://x.com/smui_ahmad" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/x.com.svg" height="28" alt="x.com"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/x.com.png" height="28" alt="x.com"/>
  </a>
  <a target="_blank" href="https://instagram.com/asmui_ahmad" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/instagram.svg" height="28" alt="instagram"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/instagram.png" height="28" alt="instagram"/>
  </a> 
  <a target="_blank" href="https://facebook.com/asmui.ahmad28" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/facebook.svg" height="28" alt="facebook"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/facebook.png" height="28" alt="facebook"/>
  </a>
  <a target="_blank" href="https://asmuiahmad.github.io/html/discord" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/discord.svg" height="28" alt="discord"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/discord.png" height="28" alt="discord"/>
  </a>
 </br>
   <a target="_blank" href="https://steamcommunity.com/id/darthVoyage/" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/steam.svg" height="28" alt="steam"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/steam.png" height="28" alt="steam"/>
  </a>
  <a target="_blank" href="https://asmuiahmad.github.io/html/battlenet" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/battlenet.svg" height="28" alt="battlenet"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/battlenet.png" height="28" alt="battlenet"/>
  </a>
  <a target="_blank" href="https://asmuiahmad.github.io/html/riotgames" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/riotgames.svg" height="28" alt="riotgames"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/riotgames.png" height="28" alt="riotgames"/>
  </a>
  <a target="_blank" href="https://open.spotify.com/user/301h3eupxf1jilha20n3ca2xm?si=41824fcf00c349f7" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/spotify.svg" height="28" alt="spotify"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/spotify.png" height="28" alt="spotify"/>
  </a>  
  <a target="_blank" href="https://stackoverflow.com/users/14989413/darth-voyage" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/stackoverflow.svg" height="28" alt="stackoverflow"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/stackoverflow.png" height="28" alt="stackoverflow"/>
  </a> 
  <a target="_blank" href="#0" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/rss.svg" height="28" alt="rss"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/rss.png" height="28" alt="rss"/>
  </a> 
   
 </p>
