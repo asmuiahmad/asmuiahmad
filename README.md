@@ -74,6 +74,7 @@
  
 <p>
  <img align="right" width="350" src="/assets/astronaut.gif" alt="Coding gif" />
+<br />
   
  ✌️ &emsp; I like to be called Gizmo rather than Nerd <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
@@ -104,7 +105,7 @@
 </a>
 
 
-![𐎠𐎿𐎸𐎡 𐎠𐏃𐎶𐎭's Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmuiahmad&custom_title=Ahmad%20Asmui's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![𐎠𐎿𐎸𐎡 𐎠𐏃𐎶𐎭's Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmuiahmad&custom_title=𐎠𐎿𐎸𐎡%20𐎠𐏃𐎶𐎭's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br />
 <be />
