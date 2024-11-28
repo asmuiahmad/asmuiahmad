@@ -71,7 +71,6 @@
 
 <!-- About Section -->
 # 🔬 About me
- 
 <p>
  <img align="right" width="350" src="/assets/astronaut.gif" alt="Coding gif" />  
  ✌️ &emsp; I like to be called Gizmo rather than Nerd <br/>
