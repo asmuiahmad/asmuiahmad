@@ -86,26 +86,28 @@
 
 # 📊 Github Stats
 <p align="center">
-  <a href="https://github.com/asmuiahmad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmuiahmad&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=asmuiahmad&theme=tokyonight&hide_border=true&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="Asmui Ahmad's Streak" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/asmuiahmad">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmuiahmad&theme=radical" alt="Asmu'i Ahmad's GitHub Contribution"/>
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmuiahmad&theme=tokyonight" alt="Asmui Ahmad's Stat">
 </p>
-
-<a> 
-    <a href="https://github.com/asmuiahmad"><img alt="Asmu'i Ahmad's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=asmuiahmad&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/asmuiahmad"><img alt="Asmu'i Ahmad's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=asmuiahmad&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<p align="center">
+    <a href="https://github.com/asmuiahmad"><img alt="Asmu'i Ahmad's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmuiahmad&theme=tokyonight"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/asmuiahmad"><img alt="Asmu'i Ahmad's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmuiahmad&theme=tokyonight"/></a>
   <br/>
 </a>
 
-
-![𐎠𐎿𐎸𐎡 𐎠𐏃𐎶𐎭's Graph](https://github-readme-activity-graph.vercel.app/graph?username=asmuiahmad&custom_title=𐎠𐎿𐎸𐎡%20𐎠𐏃𐎶𐎭's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
+<a> 
+    <a href="https://github.com/asmuiahmad"><img alt="Asmu'i Ahmad's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmuiahmad&theme=tokyonight"/></a>
+  &nbsp;&nbsp;
+    <a href="https://github.com/asmuiahmad"><img alt="Asmu'i Ahmad's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asmuiahmad&theme=tokyonight&utcOffset=8"/></a>
+</a>
+  <br />
+  
+<a href="https://github.com/asmuiahmad"><img alt="Asmu'i Ahmad's Top Languages" src="https://github-readme-activity-graph.vercel.app/graph?username=asmuiahmad&theme=tokyo-night&line="/></a>
+</p>
 <br />
 <be />
 
