@@ -96,7 +96,6 @@
     <a href="https://github.com/asmuiahmad"><img alt="Asmu'i Ahmad's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmuiahmad&theme=tokyonight"/></a>
   &nbsp;&nbsp;
   <a href="https://github.com/asmuiahmad"><img alt="Asmu'i Ahmad's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmuiahmad&theme=tokyonight"/></a>
-  <br/>
 </a>
 
 <a> 
