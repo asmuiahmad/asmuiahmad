@@ -78,7 +78,7 @@
  📧 &emsp; Reach me anytime: <a href="mailto:asmui.ahmad@muslim.com">asmui.ahmad@muslim.com</a><br/>
  💬 &emsp; Ask me about anything <a target="_blank" href="https://github.com/asmuiahmad/asmuiahmad/issues">Here</a><br />
  📚 &emsp; I also like to learn many languages <a target="_blank" href="https://www.duolingo.com/profile/asmui_ahmad">Duolingo</a><br/> </p>
-<a target="_blank" href="https://www.duolingo.com/profile/asmui_ahmad"><img src="https://duolingo-stats-card.vercel.app/api?username=asmui_ahmad&theme=sky" alt="Duolingo Stats"/></a>
+<a target="_blank" href="https://www.duolingo.com/profile/asmui_ahmad"><img src="https://duolingo-stats-card.vercel.app/api?username=asmuiahmad&theme=sky" alt="Duolingo Stats"/></a>
 <br/>
 <br/>
 <br/>
