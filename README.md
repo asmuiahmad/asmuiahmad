@@ -14,7 +14,7 @@
     <a target="_blank" href="https://www.google.com/search?q=Ahmad+Asmu'i">「 Google Me 」</a>
     <br>
   </br>
-    <h5 align="center" style="font-size: 8px;">
+    <h5 align="center" style="font-size: 30px;">
     「 I am a 
     <a target="_blank" href="https://simple.wikipedia.org/wiki/Gizmo">Gizmo</a>, 
     <a target="_blank" href="https://en.wikipedia.org/wiki/Robotics">Robotic</a> Lover, 
