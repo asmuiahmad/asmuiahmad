@@ -64,7 +64,7 @@
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/stackoverflow.svg" height="28" alt="stackoverflow"/>
  </a> 
  <a target="_blank" href="#0" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/rss.svg" height="28" alt="rss"/>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/codepen.svg" height="28" alt="codepen"/>
  </a> 
   
 </p>
@@ -315,6 +315,9 @@
 
 <h3 align="left">Favourite Operating System :</h3>
 <p align="left">
+  <a href="https://www.apple.com/macbook-pro/" target="_blank" rel="noreferrer">
+  <img src="hhttps://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/macos.svg" alt="macos" width="50" height="50"/></a>
+
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" width="50" height="50"/></a>
 
