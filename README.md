@@ -63,7 +63,7 @@
  <a target="_blank" href="https://stackoverflow.com/users/14989413/darth-voyage" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/stackoverflow.svg" height="28" alt="stackoverflow"/>
  </a> 
- <a target="_blank" href="#0" target="_blank">
+ <a target="_blank" href="https://codepen.io/asmui_ahmad" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/codepen.svg" height="28" alt="codepen"/>
  </a> 
   
