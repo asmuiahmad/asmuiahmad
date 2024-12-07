@@ -316,7 +316,7 @@
 <h3 align="left">Favourite Operating System :</h3>
 <p align="left">
   <a href="https://www.apple.com/macbook-pro/" target="_blank" rel="noreferrer">
-  <img src="hhttps://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/macos.svg" alt="macos" width="50" height="50"/></a>
+  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/macos.svg" alt="macos" width="50" height="50"/></a>
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Linux-Dark.svg" alt="linux" width="50" height="50"/></a>
