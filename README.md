@@ -35,7 +35,7 @@
  <a target="_blank" href="https://linkedin.com/in/asmuiahmad" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/linkedin.png" height="28" alt="linkedin"/>
  </a>
- <a target="_blank" href="https://x.com/smui_ahmad" target="_blank">
+ <a target="_blank" href="https://x.com/asmui_ahmd" target="_blank">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/x.com.png" height="28" alt="x.com"/>
  </a>
  <a target="_blank" href="https://instagram.com/asmui_ahmad" target="_blank">
