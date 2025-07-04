@@ -28,75 +28,76 @@
   </samp>
 </p>
 
-<!-- 🌐 Responsive Social Media Icons Grid -->
+<!-- 🌐 Responsive Social Media Icons Grid with spacing -->
 <p align="center">
   <table align="center">
     <tr>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://asmuiahmad.github.io" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/website.png" style="height:28px; width:auto; margin:6px;" alt="website" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/website.png" style="height:28px; width:auto;" alt="website" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://linkedin.com/in/asmuiahmad" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/linkedin.png" style="height:28px; width:auto; margin:6px;" alt="linkedin" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/linkedin.png" style="height:28px; width:auto;" alt="linkedin" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://x.com/asmui_ahmd" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/x.com.png" style="height:28px; width:auto; margin:6px;" alt="x.com" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/x.com.png" style="height:28px; width:auto;" alt="x.com" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://instagram.com/asmui_ahmad" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/instagram.png" style="height:28px; width:auto; margin:6px;" alt="instagram" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/instagram.png" style="height:28px; width:auto;" alt="instagram" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://facebook.com/asmui.ahmad28" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/facebook.png" style="height:28px; width:auto; margin:6px;" alt="facebook" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/facebook.png" style="height:28px; width:auto;" alt="facebook" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://asmuiahmad.github.io/html/discord" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/discord.png" style="height:28px; width:auto; margin:6px;" alt="discord" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/discord.png" style="height:28px; width:auto;" alt="discord" />
         </a>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://steamcommunity.com/id/darthVoyage/" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/steam.png" style="height:28px; width:auto; margin:6px;" alt="steam" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/steam.png" style="height:28px; width:auto;" alt="steam" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://asmuiahmad.github.io/html/battlenet" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/battlenet.png" style="height:28px; width:auto; margin:6px;" alt="battlenet" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/battlenet.png" style="height:28px; width:auto;" alt="battlenet" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://asmuiahmad.github.io/html/riotgames" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/riotgames.png" style="height:28px; width:auto; margin:6px;" alt="riotgames" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/riotgames.png" style="height:28px; width:auto;" alt="riotgames" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://open.spotify.com/user/301h3eupxf1jilha20n3ca2xm?si=41824fcf00c349f7" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/spotify.png" style="height:28px; width:auto; margin:6px;" alt="spotify" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/spotify.png" style="height:28px; width:auto;" alt="spotify" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://stackoverflow.com/users/14989413/darth-voyage" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/stackoverflow.png" style="height:28px; width:auto; margin:6px;" alt="stackoverflow" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/stackoverflow.png" style="height:28px; width:auto;" alt="stackoverflow" />
         </a>
       </td>
-      <td align="center">
+      <td align="center" style="min-width:60px; padding:6px;">
         <a href="https://codepen.io/asmui_ahmad" target="_blank">
-          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/codepen.png" style="height:28px; width:auto; margin:6px;" alt="codepen" />
+          <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/codepen.png" style="height:28px; width:auto;" alt="codepen" />
         </a>
       </td>
     </tr>
   </table>
 </p>
+
 
 <!-- About Section -->
 # 🔬 About me
