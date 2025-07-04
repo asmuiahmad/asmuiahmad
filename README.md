@@ -29,45 +29,44 @@
 </p>
 
 <p align="center">
- <a target="_blank" href="https://asmuiahmad.github.io" target="blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/website.png" height="28" alt="website"/>
- </a>
- <a target="_blank" href="https://linkedin.com/in/asmuiahmad" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/linkedin.png" height="28" alt="linkedin"/>
- </a>
- <a target="_blank" href="https://x.com/asmui_ahmd" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/x.com.png" height="28" alt="x.com"/>
- </a>
- <a target="_blank" href="https://instagram.com/asmui_ahmad" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/instagram.png" height="28" alt="instagram"/>
- </a> 
- <a target="_blank" href="https://facebook.com/asmui.ahmad28" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/facebook.png" height="28" alt="facebook"/>
- </a>
- <a target="_blank" href="https://asmuiahmad.github.io/html/discord" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/discord.png" height="28" alt="discord"/>
- </a>
-</br>
-  <a target="_blank" href="https://steamcommunity.com/id/darthVoyage/" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/steam.png" height="28" alt="steam"/>
- </a>
- <a target="_blank" href="https://asmuiahmad.github.io/html/battlenet" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/battlenet.png" height="28" alt="battlenet"/>
- </a>
- <a target="_blank" href="https://asmuiahmad.github.io/html/riotgames" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/riotgames.png" height="28" alt="riotgames"/>
- </a>
- <a target="_blank" href="https://open.spotify.com/user/301h3eupxf1jilha20n3ca2xm?si=41824fcf00c349f7" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/spotify.png" height="28" alt="spotify"/>
- </a>  
- <a target="_blank" href="https://stackoverflow.com/users/14989413/darth-voyage" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/stackoverflow.png" height="28" alt="stackoverflow"/>
- </a> 
- <a target="_blank" href="https://codepen.io/asmui_ahmad" target="_blank">
-  <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/codepen.png" height="28" alt="codepen"/>
- </a> 
-  
+  <a target="_blank" href="https://asmuiahmad.github.io">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/website.png" height="24" alt="website"/>
+  </a>
+  <a target="_blank" href="https://linkedin.com/in/asmuiahmad">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/linkedin.png" height="24" alt="linkedin"/>
+  </a>
+  <a target="_blank" href="https://x.com/asmui_ahmd">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/x.com.png" height="24" alt="x.com"/>
+  </a>
+  <a target="_blank" href="https://instagram.com/asmui_ahmad">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/instagram.png" height="24" alt="instagram"/>
+  </a> 
+  <a target="_blank" href="https://facebook.com/asmui.ahmad28">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/facebook.png" height="24" alt="facebook"/>
+  </a>
+  <a target="_blank" href="https://asmuiahmad.github.io/html/discord">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/discord.png" height="24" alt="discord"/>
+  </a>
+  <a target="_blank" href="https://steamcommunity.com/id/darthVoyage/">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/steam.png" height="24" alt="steam"/>
+  </a>
+  <a target="_blank" href="https://asmuiahmad.github.io/html/battlenet">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/battlenet.png" height="24" alt="battlenet"/>
+  </a>
+  <a target="_blank" href="https://asmuiahmad.github.io/html/riotgames">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/riotgames.png" height="24" alt="riotgames"/>
+  </a>
+  <a target="_blank" href="https://open.spotify.com/user/301h3eupxf1jilha20n3ca2xm?si=41824fcf00c349f7">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/spotify.png" height="24" alt="spotify"/>
+  </a>  
+  <a target="_blank" href="https://stackoverflow.com/users/14989413/darth-voyage">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/stackoverflow.png" height="24" alt="stackoverflow"/>
+  </a> 
+  <a target="_blank" href="https://codepen.io/asmui_ahmad">
+    <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/codepen.png" height="24" alt="codepen"/>
+  </a> 
 </p>
+
 
 <!-- About Section -->
 # 🔬 About me
