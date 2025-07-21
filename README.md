@@ -6,8 +6,8 @@
 <h3 align="center">
         <samp>&gt; Hey There!, </samp>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=I'm+Ahmad+Asmu'i;I'm+Astronomy+Enthusiast;You+can+call+me+Gizmo;I+do+Programming+for+fun;I+do+AI+and+ML+Projects+and+Stuff" alt="Typing SVG" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=I'm+Ahmad+Asmu'i;I'm+Astronomy+Enthusiast;You+can+call+me+Gizmo;I+do+Programming+for+fun;I+do+AI+and+ML+Projects+and+Stuff" alt="Typing SVG" />
   </a>
 </h3>
 
@@ -32,67 +32,43 @@
 
 <!-- 🌐 Responsive Social Media Icons Grid with spacing -->
 <div align="center">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(60px, 1fr)); gap: 12px; max-width: 720px; margin: 0 auto; padding: 10px;">
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://asmuiahmad.github.io" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/website.png" style="height:28px; width:auto;" alt="website" />
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://linkedin.com/in/asmuiahmad" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/linkedin.png" style="height:28px; width:auto;" alt="linkedin" />
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://x.com/asmui_ahmd" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/x.com.png" style="height:28px; width:auto;" alt="x.com" />
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://instagram.com/asmui_ahmad" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/instagram.png" style="height:28px; width:auto;" alt="instagram" />
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://facebook.com/asmui.ahmad28" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/facebook.png" style="height:28px; width:auto;" alt="facebook" />
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://asmuiahmad.github.io/html/discord" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/discord.png" style="height:28px; width:auto;" alt="discord" />
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://steamcommunity.com/id/darthVoyage/" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/steam.png" style="height:28px; width:auto;" alt="steam" />
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://asmuiahmad.github.io/html/battlenet" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/battlenet.png" style="height:28px; width:auto;" alt="battlenet" />
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://asmuiahmad.github.io/html/riotgames" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/riotgames.png" style="height:28px; width:auto;" alt="riotgames" />
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://open.spotify.com/user/301h3eupxf1jilha20n3ca2xm?si=41824fcf00c349f7" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/spotify.png" style="height:28px; width:auto;" alt="spotify" />
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://stackoverflow.com/users/14989413/darth-voyage" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/stackoverflow.png" style="height:28px; width:auto;" alt="stackoverflow" />
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center; align-items: center; min-height: 40px;">
-      <a href="https://codepen.io/asmui_ahmad" target="_blank">
-        <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/codepen.png" style="height:28px; width:auto;" alt="codepen" />
-      </a>
-    </div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; max-width: 800px; margin: 0 auto; padding: 20px;">
+    <a href="https://asmuiahmad.github.io" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/website.png" style="height:32px; width:auto;" alt="website" />
+    </a>
+    <a href="https://linkedin.com/in/asmuiahmad" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/linkedin.png" style="height:32px; width:auto;" alt="linkedin" />
+    </a>
+    <a href="https://x.com/asmui_ahmd" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/x.com.png" style="height:32px; width:auto;" alt="x.com" />
+    </a>
+    <a href="https://instagram.com/asmui_ahmad" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/instagram.png" style="height:32px; width:auto;" alt="instagram" />
+    </a>
+    <a href="https://facebook.com/asmui.ahmad28" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/facebook.png" style="height:32px; width:auto;" alt="facebook" />
+    </a>
+    <a href="https://asmuiahmad.github.io/html/discord" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/discord.png" style="height:32px; width:auto;" alt="discord" />
+    </a>
+    <a href="https://steamcommunity.com/id/darthVoyage/" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/steam.png" style="height:32px; width:auto;" alt="steam" />
+    </a>
+    <a href="https://asmuiahmad.github.io/html/battlenet" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/battlenet.png" style="height:32px; width:auto;" alt="battlenet" />
+    </a>
+    <a href="https://asmuiahmad.github.io/html/riotgames" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/riotgames.png" style="height:32px; width:auto;" alt="riotgames" />
+    </a>
+    <a href="https://open.spotify.com/user/301h3eupxf1jilha20n3ca2xm?si=41824fcf00c349f7" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/spotify.png" style="height:32px; width:auto;" alt="spotify" />
+    </a>
+    <a href="https://stackoverflow.com/users/14989413/darth-voyage" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/stackoverflow.png" style="height:32px; width:auto;" alt="stackoverflow" />
+    </a>
+    <a href="https://codepen.io/asmui_ahmad" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/codepen.png" style="height:32px; width:auto;" alt="codepen" />
+    </a>
   </div>
 </div>
 
