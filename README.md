@@ -32,7 +32,7 @@
 
 <!-- 🌐 Responsive Social Media Icons Grid with spacing -->
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; max-width: 800px; margin: 0 auto; padding: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 25px; max-width: 900px; margin: 0 auto; padding: 30px 20px;">
     <a href="https://asmuiahmad.github.io" target="_blank" style="transition: transform 0.3s ease;">
       <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/website.png" style="height:32px; width:auto;" alt="website" />
     </a>
