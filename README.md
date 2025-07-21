@@ -76,36 +76,18 @@
 
 # 🔬 About me
 
-<div style="display: flex; align-items: flex-start; gap: 30px; margin: 20px 0; padding: 20px; border-radius: 10px;">
-  <div style="flex: 1; min-width: 300px;">
-    <p style="font-size: 16px; line-height: 1.8; margin: 0;">
-      ✌️ &emsp; I like to be called Gizmo rather than Nerd <br/>
-      ❤️ &emsp; Love to writing code and learning new features<br/>
-      📧 &emsp; Reach me anytime: <a href="mailto:asmui.ahmad@muslim.com">asmui.ahmad@muslim.com</a><br/>
-      💬 &emsp; Ask me about anything <a target="_blank" href="https://github.com/asmuiahmad/asmuiahmad/issues">Here</a><br/>
-    </p>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img width="350" src="/assets/astronaut.gif" alt="Coding gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-  </div>
-</div>
-
-<!-- Responsive fallback for mobile -->
-<div style="display: none;">
-  @media (max-width: 768px) {
-    .about-container {
-      flex-direction: column !important;
-      text-align: center !important;
-    }
-    .about-container img {
-      width: 100% !important;
-      max-width: 300px !important;
-      margin: 20px auto 0 auto !important;
-    }
-  }
-</div>
+<p>
+ <img align="right" width="350" src="/assets/astronaut.gif" alt="Coding gif" />  
+ ✌️ &emsp; I like to be called Gizmo rather than Nerd <br/>
+ ❤️ &emsp; Love to writing code and learning new features<br/>
+ 📧 &emsp; Reach me anytime: <a href="mailto:asmui.ahmad@muslim.com">asmui.ahmad@muslim.com</a><br/>
+ 💬 &emsp; Ask me about anything <a target="_blank" href="https://github.com/asmuiahmad/asmuiahmad/issues">Here</a><br /> 
+<br/>
+<br/>
+<be/>
 
 # 📊 Github Stats
+
 <div align="center">
   <!-- Streak Stats - Full Width -->
   <div style="margin-bottom: 20px;">
