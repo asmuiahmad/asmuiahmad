@@ -77,7 +77,7 @@
 # 🔬 About me
 
 <p>
- <img align="right" width="350" src="/assets/astronaut.gif" alt="Coding gif" />  
+ <img align="right" width="270" src="/assets/astronaut.gif" alt="Coding gif" />  
  ✌️ &emsp; I like to be called Gizmo rather than Nerd <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
  📧 &emsp; Reach me anytime: <a href="mailto:asmui.ahmad@muslim.com">asmui.ahmad@muslim.com</a><br/>
