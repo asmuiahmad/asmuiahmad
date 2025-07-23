@@ -77,7 +77,7 @@
 # 🔬 About me
 
 <p>
- <img align="right" width="270" src="/assets/astronaut.gif" alt="Coding gif" />  
+ <img align="right" width="350" src="/assets/astronaut.gif" alt="Coding gif" />  
  ✌️ &emsp; I like to be called Gizmo rather than Nerd <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
  📧 &emsp; Reach me anytime: <a href="mailto:asmui.ahmad@muslim.com">asmui.ahmad@muslim.com</a><br/>
@@ -167,6 +167,9 @@
 <p align="left">
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenCV-Dark.svg" alt="opencv" width="50" height="50"/></a>
+
+  <a href="https://ollama.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ollama.svg" alt="opencv" width="50" height="50"/></a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/pandas.svg" alt="pandas" width="50" height="50"/></a>
