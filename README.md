@@ -169,7 +169,7 @@
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/OpenCV-Dark.svg" alt="opencv" width="50" height="50"/></a>
 
   <a href="https://ollama.com/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ollama.svg" alt="opencv" width="50" height="50"/></a>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ollama.svg" alt="ollama" width="50" height="50"/></a>
 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons/pandas.svg" alt="pandas" width="50" height="50"/></a>
