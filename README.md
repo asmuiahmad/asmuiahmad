@@ -7,7 +7,7 @@
         <samp>&gt; Hey There!, </samp>
 
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=I'm+Ahmad+Asmu'i;I'm+Astronomy+Enthusiast;You+can+call+me+Gizmo;I+do+Programming+for+fun;I+do+AI+and+ML+Projects+and+Stuff" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=I'm+Ahmad+Asmu'i;I'm+Astronomy+Enthusiast;You+can+call+me+Techie;I+do+Programming+for+fun;I+do+AI+and+ML+Projects+and+Stuff" alt="Typing SVG" />
   </a>
 </h3>
 
