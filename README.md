@@ -18,7 +18,7 @@
   </br>
     <h5 align="center" style="font-size: 30px;">
     「 I am a 
-    <a target="_blank" href="https://simple.wikipedia.org/wiki/Gizmo">Gizmo</a>, 
+    <a target="_blank" href="https://simple.wikipedia.org/wiki/Gizmo">Techie</a>, 
     <a target="_blank" href="https://en.wikipedia.org/wiki/Robotics">Robotic</a> Lover, 
     <a target="_blank" href="https://en.wikipedia.org/wiki/Astronomy">Astronomer</a> Enthusiast, Love reading about 
     <a target="_blank" href="https://en.wikipedia.org/wiki/History">History</a> and <a target="_blank" href="https://en.wikipedia.org/wiki/Philosophy#:~:text=Philosophy%20(%CF%86%CE%B9%CE%BB%CE%BF%CF%83%CE%BF%CF%86%CE%AF%CE%B1%2C%20'love%20of,value%2C%20mind%2C%20and%20language.">Philosophy</a>,
@@ -78,7 +78,7 @@
 
 <p>
  <img align="right" width="350" src="/assets/astronaut.gif" alt="Coding gif" />  
- ✌️ &emsp; I like to be called Gizmo rather than Nerd <br/>
+ ✌️ &emsp; I like to be called Techie rather than Nerd <br/>
  ❤️ &emsp; Love to writing code and learning new features<br/>
  📧 &emsp; Reach me anytime: <a href="mailto:asmui.ahmad@muslim.com">asmui.ahmad@muslim.com</a><br/>
  💬 &emsp; Ask me about anything <a target="_blank" href="https://github.com/asmuiahmad/asmuiahmad/issues">Here</a><br /> 
