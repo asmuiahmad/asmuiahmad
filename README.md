@@ -5,7 +5,6 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, </samp>
-
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=700&height=60&lines=I'm+Ahmad+Asmu'i;I'm+Astronomy+Enthusiast;You+can+call+me+Techie;I+do+Programming+for+fun;I+do+AI+and+ML+Projects+and+Stuff" alt="Typing SVG" />
   </a>
@@ -45,7 +44,7 @@
     <a href="https://instagram.com/asmui_ahmad" target="_blank" style="transition: transform 0.3s ease;">
       <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/instagram.png" style="height:32px; width:auto;" alt="instagram" />
     </a>
-    <a href="https://facebook.com/asmui.ahmad28" target="_blank" style="transition: transform 0.3s ease;">
+    <a href="https://facebook.com/asmui.ahmat" target="_blank" style="transition: transform 0.3s ease;">
       <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/facebook.png" style="height:32px; width:auto;" alt="facebook" />
     </a>
     <a href="https://asmuiahmad.github.io/html/discord" target="_blank" style="transition: transform 0.3s ease;">
