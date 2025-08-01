@@ -81,7 +81,9 @@
  ❤️ &emsp; Love to writing code and learning new features<br/>
  📧 &emsp; Reach me anytime: <a href="mailto:asmui.ahmad@muslim.com">asmui.ahmad@muslim.com</a><br/>
  💬 &emsp; Ask me about anything <a target="_blank" href="https://github.com/asmuiahmad/asmuiahmad/issues">Here</a><br />
-  <img src="https://duolingo-stats-card.vercel.app/api?username={71376672926997}" alt="Duolingo Stats"/>
+<br/>
+<br/>
+<img src="https://duolingo-stats-card.vercel.app/api?username=asmui.ahmad" alt="Duolingo Stats"/>
 <br/>
 <br/>
 <be/>
