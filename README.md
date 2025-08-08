@@ -47,7 +47,7 @@
     <a href="https://facebook.com/asmui.ahmat" target="_blank" style="transition: transform 0.3s ease;">
       <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/facebook.png" style="height:32px; width:auto;" alt="facebook" />
     </a>
-    <a href="https://asmuiahmad.github.io/html/discord" target="_blank" style="transition: transform 0.3s ease;">
+    <a href="https://discord.com/users/528615070545084426" target="_blank" style="transition: transform 0.3s ease;">
       <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/discord.png" style="height:32px; width:auto;" alt="discord" />
     </a>
     <a href="https://steamcommunity.com/id/darthVoyage/" target="_blank" style="transition: transform 0.3s ease;">
