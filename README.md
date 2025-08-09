@@ -38,8 +38,8 @@
     <a href="https://linkedin.com/in/asmuiahmad" target="_blank" style="transition: transform 0.3s ease;">
       <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/linkedin.png" style="height:32px; width:auto;" alt="linkedin" />
     </a>
-    <a href="https://x.com/asmui_ahmd" target="_blank" style="transition: transform 0.3s ease;">
-      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/x.com.png" style="height:32px; width:auto;" alt="x.com" />
+    <a href="https://www.reddit.com/user/better_not_know/" target="_blank" style="transition: transform 0.3s ease;">
+      <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/reddit.png" style="height:32px; width:auto;" alt="x.com" />
     </a>
     <a href="https://instagram.com/asmui_ahmad" target="_blank" style="transition: transform 0.3s ease;">
       <img src="https://github.com/asmuiahmad/asmuiahmad/blob/main/assets/icons-about/instagram.png" style="height:32px; width:auto;" alt="instagram" />
