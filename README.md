@@ -103,29 +103,32 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asmuiahmad&theme=tokyonight" alt="Asmui Ahmad's Stat">
   </div>
 
-  <!-- Stats Grid - 2x2 Layout -->
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; max-width: 800px; margin: 0 auto 20px auto;">
-    <div style="display: flex; justify-content: center;">
-      <a href="https://github.com/asmuiahmad">
-        <img alt="Asmu'i Ahmad's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmuiahmad&theme=tokyonight"/>
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center;">
-      <a href="https://github.com/asmuiahmad">
-        <img alt="Asmu'i Ahmad's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmuiahmad&theme=tokyonight"/>
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center;">
-      <a href="https://github.com/asmuiahmad">
-        <img alt="Asmu'i Ahmad's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmuiahmad&theme=tokyonight"/>
-      </a>
-    </div>
-    <div style="display: flex; justify-content: center;">
-      <a href="https://github.com/asmuiahmad">
-        <img alt="Asmu'i Ahmad's Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asmuiahmad&theme=tokyonight&utcOffset=8"/>
-      </a>
-    </div>
-  </div>
+<table align="center" border="0" cellpadding="0" cellspacing="5" style="none">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/asmuiahmad">
+          <img alt="Asmu'i Ahmad's Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asmuiahmad&theme=tokyonight" width="100%" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/asmuiahmad">
+          <img alt="Asmu'i Ahmad's Top Languages" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asmuiahmad&theme=tokyonight" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/asmuiahmad">
+          <img alt="Asmu'i Ahmad's Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asmuiahmad&theme=tokyonight" width="100%" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/asmuiahmad">
+          <img alt="Asmu'i Ahmad's Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asmuiahmad&theme=tokyonight&utcOffset=8" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <!-- Activity Graph - Full Width -->
   <div style="margin-bottom: 20px;">
